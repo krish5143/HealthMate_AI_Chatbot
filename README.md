@@ -102,8 +102,8 @@ python store_index.py
 python app.py
 
 
-App will run at:
-👉 http://127.0.0.1:5000
+App will run at: locally
+👉 http://127.0.0.1:5000  
 
 ⚠️ Medical Disclaimer
 
